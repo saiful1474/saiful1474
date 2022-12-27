@@ -1,6 +1,6 @@
 - 👋 Hi, I’m MD SAIFUL ISLAM
-- 👀 I’m interested in database programming
-- 🌱 I’m currently learning Uipath (RPA)
+- 👀 I’m interested in Python programming
+- 🌱 I’m currently working as a Uipath & Power Automate developer (RPA)
 - 💞️ I’m looking to collaborate on Oracle database system (RDBMS)
 - 📫 How to reach me @saiful1474
 
